@@ -16,7 +16,7 @@ export class UI{
                     consectetur adipisicing elit. Cum quam est harum eum perspiciatis porro repudiandae
                     necessitatibus, sequi molestiae reiciendis.</p>
         </div>
-        <div class="col-md-6"><img class="img-fluid" src="/moreprodukty-rolly-sushi-ryba.jpg" alt=""></div>
+        <div class="col-md-6"><img class="img-fluid" src="/images/moreprodukty-rolly-sushi-ryba.jpg" alt=""></div>
     </div>
     <div class="row text-center mt-5 ">
         <div class="col-4">
@@ -40,7 +40,7 @@ export class UI{
         <div class="row d-flex justify-content-center align-items-center text-center ">
         <div class="col-md-4 mt-2  mb-2">
             <div class="card" style="width: 18rem;">
-                <img src="/sushi.jpg" class="card-img-top" alt="...">
+                <img src="/images/sushi.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Basic Sushi</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -51,7 +51,7 @@ export class UI{
         </div>
         <div class="col-md-4 mt-2 mb-2">
             <div class="card" style="width: 18rem;">
-                <img src="/sushitarihi-yemekveyasam-kapakverywell-fit.jpg" class="card-img-top" alt="...">
+                <img src="/images/sushitarihi-yemekveyasam-kapakverywell-fit.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -62,7 +62,7 @@ export class UI{
         </div>
         <div class="col-md-4 mt-2  mb-2">
             <div class="card" style="width: 18rem;">
-                <img src="/421676350-H.jpg" class="card-img-top" alt="...">
+                <img src="/images/421676350-H.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -73,7 +73,7 @@ export class UI{
         </div>
         <div class="col-md-4 mt-2  mb-2">
             <div class="card" style="width: 18rem;">
-                <img src="/images.jpeg" class="card-img-top" alt="...">
+                <img src="/images/images.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -84,7 +84,7 @@ export class UI{
         </div>
         <div class="col-md-4 mt-2  mb-2">
             <div class="card" style="width: 18rem;">
-                <img src="/images-2.jpeg" class="card-img-top" alt="...">
+                <img src="/images/images-2.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -95,7 +95,7 @@ export class UI{
         </div>
         <div class="col-md-4 mt-2  mb-2">
             <div class="card" style="width: 18rem;">
-                <img src="/cook-and-keep-octopus-tender-2018813-3-73d93aab17194986aa1c8037eba0bcd1.jpg"
+                <img src="/images/cook-and-keep-octopus-tender-2018813-3-73d93aab17194986aa1c8037eba0bcd1.jpg"
                     class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
